@@ -1,0 +1,1 @@
+49e014445d0f3932da6f6136369ed7aec56e9a8cfcfbe0100b4fa8037208cfe2  ./target/wasm32-unknown-unknown/release/cw_vault.wasm
